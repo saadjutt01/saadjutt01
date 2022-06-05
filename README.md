@@ -24,8 +24,8 @@ Working as CEO & Solution Architect for Tetrahex.
 <img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Rails" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Gatsby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" style="padding-right:10px;" />
@@ -49,6 +49,9 @@ Working as CEO & Solution Architect for Tetrahex.
 <img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
