@@ -1,5 +1,7 @@
 ### Hey, I'm Saad!
 
+---
+
 ### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (orignially Full Stack coder + DevOps developer).
 
 It's a small group of skilled full-stack developers developing and delivering web app since 2015.
@@ -16,6 +18,8 @@ Working as CEO & Solution Architect for Tetrahex.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about NodeJS/ExpressJS/CI-CD Automation/DevOps/AWS
+
+---
 
 ### Languages and Tools:
 
