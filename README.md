@@ -2,7 +2,7 @@
 
 ---
 
-### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (originally Full Stack coder + DevOps developer).
+### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (orignially Full Stack coder + DevOps developer).
 
 It's a small group of skilled full-stack developers developing and delivering web app since 2015.
 
@@ -13,7 +13,9 @@ Focused to deliever application with up-to-date best practices coding standards 
 
 Working as CEO & Solution Architect for Tetrahex.
 
-- 🔭 I’m currently working on [sasjs](https://github.com/sasjs) framework.
+- 🔭 I’m currently working on:
+  - [sasJS](https://github.com/sasjs) framework includes JS, TS, ReactJS, CLI, NodeJS, ExpressJS
+  - Building an NFT marketplace and integrating [Venly](https://www.venly.io/) APIs includes TS, Angular12, NodeJS, ExpressJS, AWS EC2/S3/Lambda
 - 🌱 I’m constantly learning and practicing NodeJS best practices.
 - 👯 I’m looking to collaborate with clients to help build web apps from scratch/add more value to current.
 - 💬 Ask me about NodeJS/ExpressJS/CI-CD Automation/DevOps/AWS
