@@ -65,7 +65,7 @@ Working as CEO & Solution Architect for Tetrahex.
 
 - Configure Typescript environment.
 - Migrate all JS files to TS files.
-- De-structure `server.ts` file into mini-apps. ( using [express.Router](https://expressjs.com/en/guide/routing.html).
+- De-structure `server.ts` file into mini-apps. ( using [express.Router](https://expressjs.com/en/guide/routing.html))
   - create routes folder and each file has it’s own mini-app ( express.Router ).
   - controllers folder should have corresponding controller file for business logic.
 - Convert mongoose models to TS with JSDoc/TSDoc comments.
