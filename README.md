@@ -2,12 +2,12 @@
 
 ---
 
-### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (orignially Full Stack coder + DevOps developer).
+### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (originally Full Stack coder + DevOps developer).
 
 It's a small group of skilled full-stack developers developing and delivering web app since 2015.
 
 Started our journey with Ruby on Rails and ReactJS. With the time, also worked on angularJS/angular2...12 and NodeJS.
-Focused to deliever application with up-to-date best practices coding standards with Test Driven Development.
+Focused to deliver application with up-to-date best practices coding standards with Test Driven Development.
 
 ---
 
