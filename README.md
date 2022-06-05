@@ -15,8 +15,7 @@ Working as CEO & Solution Architect for Tetrahex.
 
 - 🔭 I’m currently working on [sasjs](https://github.com/sasjs) framework.
 - 🌱 I’m constantly learning and practicing NodeJS best practices.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate with clients to help build web apps from scratch/add more value to current.
 - 💬 Ask me about NodeJS/ExpressJS/CI-CD Automation/DevOps/AWS
 
 ---
