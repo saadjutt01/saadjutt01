@@ -23,6 +23,23 @@ Working as CEO & Solution Architect for Tetrahex.
 
 ---
 
+### Tips for conventional NodeJs based REST API Express App
+
+- Configure Typescript environment.
+- Migrate all JS files to TS files.
+- De-structure `server.ts` file into mini-apps. ( using [express.Router](https://expressjs.com/en/guide/routing.html))
+  - create routes folder and each file has it’s own mini-app ( express.Router ).
+  - controllers folder should have corresponding controller file for business logic.
+- Convert mongoose models to TS with JSDoc/TSDoc comments.
+- By achieving all of above^^, codebase is ready to generate swagger API using [tsoa](https://github.com/lukeautry/tsoa) package.
+- Use [JOI](https://github.com/sideway/joi) package for param validations in api routes. ( provide validations in utils folder ).
+- Configure pipeline for linting and testing.
+
+Note: All of the above new packages I mentioned are active and widely accepted by dev community.
+
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
@@ -54,28 +71,3 @@ Working as CEO & Solution Architect for Tetrahex.
 <img align="left" alt="DigitalOcean" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
-
-### Tips for conventional NodeJs based REST API Express App
-
-- Configure Typescript environment.
-- Migrate all JS files to TS files.
-- De-structure `server.ts` file into mini-apps. ( using [express.Router](https://expressjs.com/en/guide/routing.html))
-  - create routes folder and each file has it’s own mini-app ( express.Router ).
-  - controllers folder should have corresponding controller file for business logic.
-- Convert mongoose models to TS with JSDoc/TSDoc comments.
-- By achieving all of above^^, codebase is ready to generate swagger API using [tsoa](https://github.com/lukeautry/tsoa) package.
-- Use [JOI](https://github.com/sideway/joi) package for param validations in api routes. ( provide validations in utils folder ).
-- Configure pipeline for linting and testing.
-
-Note: All of the above new packages I mentioned are active and widely accepted by dev community.
