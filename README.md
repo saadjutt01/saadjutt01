@@ -2,7 +2,7 @@
 
 ---
 
-### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (originally Full Stack coder + DevOps developer).
+### I'm the co-founder of [Tetrahex](https://tetrahex.com/) (Full Stack + DevOps developer).
 
 It's a small group of skilled full-stack developers developing and delivering web app since 2015.
 
